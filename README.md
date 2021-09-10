@@ -1,4 +1,4 @@
-### Heyo 👋 I'm Geethasree
+### Heyo 👋 I'm Geetha
 
 <!--
 **geethasreekoncha/geethasreekoncha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
