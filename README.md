@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything :sweat_smile:
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about technology and physics
 - 😄 Pronouns: She/Her
